@@ -1,2 +1,2 @@
 # clustering-classification-dimreduction
-A notebook where I showcase some clustering work, classification work, and dimensionality reduction work
+A notebook where I showcase my expertise with clustering, classification, and dimensionality reduction
